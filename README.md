@@ -2,4 +2,5 @@
 The project is about BBC News using html & CSS.
 
 Click on the below link to view the project:
-https://github.com/Priyya10/BBC-News-project.git
+
+https://priyya10.github.io/BBC-News-project/
